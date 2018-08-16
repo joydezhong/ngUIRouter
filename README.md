@@ -1,0 +1,1 @@
+## angular-ui-router基本用法，状态管理，路由嵌套。
